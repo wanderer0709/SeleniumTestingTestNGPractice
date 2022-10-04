@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default Suite]">
+  <test thread-count="5" name="A16_NguyenMinhHai_Day05(failed)">
+    <classes>
+      <class name="Homework.TestPage">
+        <methods>
+          <include name="copy"/>
+          <include name="setup"/>
+          <include name="righClickBt"/>
+        </methods>
+      </class> <!-- Homework.TestPage -->
+    </classes>
+  </test> <!-- A16_NguyenMinhHai_Day05(failed) -->
+</suite> <!-- Failed suite [Default Suite] -->
